@@ -1,0 +1,4 @@
+/* default styles for extension "tx_gomapsext" */
+		.tx-go-maps-ext img {
+			max-width: none;
+		}
